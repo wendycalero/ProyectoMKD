@@ -94,3 +94,4 @@ Se necesitan variables relevantes como el ingreso anual, variables demograficas 
 ### Conclusiones y recomendaciones
 Implementar los clusters identificados proporciona una forma de personalizar la oferta de productos y servicios financieros, mejorar la gestión de riesgos, y optimizar los recursos de marketing y ventas. Al entender las características únicas de cada grupo de clientes, el negocio puede tomar decisiones más informadas que maximicen la rentabilidad y minimicen el riesgo.
 ### Future Work
+A medida que se recopilan nuevos datos transaccionales, los clusters pueden cambiar. Implementar un sistema de monitoreo continuo que actualice los clusters de clientes periódicamente permitiría adaptar las estrategias de negocio en tiempo real y responder mejor a cambios en el comportamiento de los clientes. Esto implicaría automatizar el proceso de clustering y la integración en los sistemas CRM del negocio.
